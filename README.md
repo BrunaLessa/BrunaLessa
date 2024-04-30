@@ -1,6 +1,3 @@
-<img width=100% src="./color.png" />
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif&size=24&pause=1000&color=F70CAE&background=212A8000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=440&height=53&lines=Hi%2C+Sou+Bruna+Lessa)](https://git.io/typing-svg)
 
 “Que a força do Git esteja com você 🖖🏽”
