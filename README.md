@@ -1,5 +1,5 @@
 ### Hi Sou Bruna Lessa 🎈
-“Que a força do Git esteja com você.”
+“Que a força do Git esteja com você 🖖🏽”
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaLessa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaLessa&theme=synthwave&layout=compact)
