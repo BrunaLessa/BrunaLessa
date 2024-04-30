@@ -1,4 +1,4 @@
-### Hi sou Bruna Lessa 🎈
+### Hi Sou Bruna Lessa 🎈
 “Que a força do Git esteja com você.”
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaLessa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
