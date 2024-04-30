@@ -1,4 +1,8 @@
-### Hi Sou Bruna Lessa 🎈
+<img width=100% src="./color.png" />
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans+serif&size=24&pause=1000&color=F70CAE&background=212A8000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=440&height=53&lines=Hi%2C+Sou+Bruna+Lessa)](https://git.io/typing-svg)
+
 “Que a força do Git esteja com você 🖖🏽”
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaLessa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,8 +11,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
 
 ##
