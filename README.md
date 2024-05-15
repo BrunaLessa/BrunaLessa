@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey%2B25&size=39&pause=1000&color=FF68EC&random=false&width=435&lines=Bruna+Lessa+)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+20&pause=1000&color=96E1FF&repeat=false&random=false&width=435&lines=Que+a+for%C3%A7a+Git+esteja+com+voc%C3%AA+%F0%9F%96%96%F0%9F%8F%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey&pause=1000&color=96E1FF&repeat=false&random=false&width=435&lines=Que+a+for%C3%A7a+Git+esteja+com+voc%C3%AA+)](https://git.io/typing-svg)
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
